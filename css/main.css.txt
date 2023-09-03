@@ -1,3 +1,4 @@
 body{
 front_size 20px;
+color red;
 }
